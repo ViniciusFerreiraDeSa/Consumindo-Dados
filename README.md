@@ -1,2 +1,2 @@
-# Consumindo-Dados
-Consumindo dados do úsuario, Cep e etc, projeto feito para aprender a usar API.
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
